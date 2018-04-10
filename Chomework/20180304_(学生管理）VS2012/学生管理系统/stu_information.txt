@@ -1,0 +1,4 @@
+001	qian	M	67	95	91
+002	zhao	M	82	85	82
+003	sun	F	87	63	88
+004	xiaomeng	F	87	89	78

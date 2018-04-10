@@ -1,0 +1,5 @@
+﻿  main.c
+e:\code_23\20180301\2.完全二叉树\main.c(89): warning C4101: “p”: 未引用的局部变量
+e:\code_23\20180301\2.完全二叉树\main.c(90): warning C4101: “i”: 未引用的局部变量
+e:\code_23\20180301\2.完全二叉树\main.c(90): warning C4101: “j”: 未引用的局部变量
+  2.完全二叉树.vcxproj -> E:\CODE_23\20180301\Debug\2.完全二叉树.exe

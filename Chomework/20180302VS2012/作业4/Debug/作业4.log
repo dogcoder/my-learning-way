@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/3/3 15:42:06。
+     1>项目“F:\计算机考研\王道编程\20180302\文件练习及作业\作业4\作业4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt fun.c
+         fun.c
+     1>f:\计算机考研\王道编程\20180302\文件练习及作业\作业4\fun.c(9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>f:\计算机考研\王道编程\20180302\文件练习及作业\作业4\fun.c(14): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : 参见“fscanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\计算机考研\王道编程\20180302\文件练习及作业\Debug\作业4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\计算机考研\王道编程\20180302\文件练习及作业\Debug\作业4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\计算机考研\王道编程\20180302\文件练习及作业\Debug\作业4.lib" /MACHINE:X86 Debug\fun.obj
+         Debug\main.obj
+         作业4.vcxproj -> F:\计算机考研\王道编程\20180302\文件练习及作业\Debug\作业4.exe
+     1>已完成生成项目“F:\计算机考研\王道编程\20180302\文件练习及作业\作业4\作业4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.88

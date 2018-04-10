@@ -1,0 +1,4 @@
+﻿  main.c
+e:\code_23\20180301\1.栈\main.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+  1.栈.vcxproj -> E:\CODE_23\20180301\Debug\1.栈.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+e:\code_23\20180301\3.排序算法\main.c(9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  func.c
+  正在生成代码...
+  3.排序算法.vcxproj -> E:\CODE_23\20180301\Debug\3.排序算法.exe
